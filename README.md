@@ -60,6 +60,14 @@ The project simulates industrial sensor monitoring systems used in automation an
 
 ---
 
+## Run Locally
+
+pip install -r requirements.txt
+
+streamlit run dashboard/main.py
+
+---
+
 ## Author
 
 Ankur
